@@ -1,4 +1,3 @@
-# technical-analysis
 # Thaibot Technical Analysis
 
 **Thaibot Technical Analysis** คือ Library ภาษา Rust สำหรับการคำนวณอินดิเคเตอร์ทางเทคนิค (Technical Indicators) และวิเคราะห์สัญญาณการเทรด (Trade Signals) สำหรับระบบ Algorithmic Trading
